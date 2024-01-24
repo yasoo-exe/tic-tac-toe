@@ -88,7 +88,7 @@ export default function Board() {
           handleClick(8);
         }}
       />
-      <div className="status">{status}</div>
+      <div className="statuus">{status}</div>
     </>
   );
 }
